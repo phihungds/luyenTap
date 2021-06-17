@@ -1,0 +1,36 @@
+*{margin: 0px; padding: 0px; , sans-serif;}
+#info {
+    width: 700px;
+    margin: auto;
+    color: blue;
+    margin-top: 20px;font-family: Arial, Helvetica
+}
+#info th{
+    font-size: 30px;
+    height: 60px;
+   vertical-align: top;}
+#info .right {
+    text-align: right;
+}
+
+#tkb {
+    width: 750px;
+    margin: auto;
+    border: 2px solid #8f6363;
+    border-collapse: collapse;
+}
+#tkb  th{
+    border: 2px solid #8f6363;
+    height: 27px;
+}
+#tkb td{
+    border: 2px solid #8f6363;
+    padding: 5px;
+}
+#tkb .date {
+    background: #fefb52;
+    width: 150px;
+}
+#tkb #dong2 {
+    background: #f5b63e;
+}
